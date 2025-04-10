@@ -1,0 +1,13 @@
+.env
+*.pyc
+__pycache__/
+*.log
+*.pot
+*.mo
+*.swp
+*.swo
+*.bak
+*.tmp
+.vscode/
+.idea/
+.DS_Store
